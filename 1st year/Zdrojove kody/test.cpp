@@ -32,7 +32,7 @@ int main(){
     reverse(pole, pole + N);
 
     for(int i=0; i<N; i++){
-        cout << pole[i] << endl;
+        cout << i << " " << pole[i] << endl;
     }
 
 
